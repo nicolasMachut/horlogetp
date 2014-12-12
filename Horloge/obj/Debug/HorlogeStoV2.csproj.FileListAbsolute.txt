@@ -1,0 +1,10 @@
+C:\Users\alexa_000\documents\visual studio 2013\Projects\HorlogeSto\HorlogeSto\bin\Debug\HorlogeSto.exe.config
+C:\Users\alexa_000\documents\visual studio 2013\Projects\HorlogeSto\HorlogeSto\obj\Debug\HorlogeSto.exe
+C:\Users\alexa_000\documents\visual studio 2013\Projects\HorlogeSto\HorlogeSto\obj\Debug\HorlogeSto.pdb
+C:\Users\Nicolas\Desktop\HorlogeTPThread-master\HorlogeSto\HorlogeSto\bin\Debug\HorlogeSto.exe.config
+C:\Users\Nicolas\Desktop\HorlogeTPThread-master\HorlogeSto\HorlogeSto\obj\Debug\HorlogeSto.exe
+C:\Users\Nicolas\Desktop\HorlogeTPThread-master\HorlogeSto\HorlogeSto\obj\Debug\HorlogeSto.pdb
+C:\Users\Nicolas\Desktop\HorlogeTPThread-master\HorlogeSto\HorlogeSto\obj\Debug\HorlogeStoV2.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Desktop\HorlogeTPThread-master\HorlogeSto\HorlogeSto\obj\Debug\HorlogeSto.Form1.resources
+C:\Users\Nicolas\Desktop\HorlogeTPThread-master\HorlogeSto\HorlogeSto\obj\Debug\HorlogeSto.Properties.Resources.resources
+C:\Users\Nicolas\Desktop\HorlogeTPThread-master\HorlogeSto\HorlogeSto\obj\Debug\HorlogeStoV2.csproj.GenerateResource.Cache
